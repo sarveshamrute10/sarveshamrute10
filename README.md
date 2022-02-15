@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### - Languages 🔭
+<p align="center" >
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxzima&&show_icons=true&theme=radical&hide_border=true&layout=compact&custom_title=Languages%20I%20Use" alt="sarveshamrute10"/></a>
+</p>
+
 ## - Find me around the web 🌎
 <p align="center">
   <a href="mailto:sarvesh.amrute19@vit.edu.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail"></a>
@@ -26,3 +32,5 @@ Here are some ideas to get you started:
   <a href="https://discord.com/channels/@me"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/discord.svg" alt="sarvesh___amrute#8160"/></a>
   <a href="https://t.me/sarvesh_amrute"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/telegram.svg" alt="SarveshAmrute"/></a>
 </p>
+
+
