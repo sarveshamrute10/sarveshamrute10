@@ -17,3 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## - Find me around the web 🌎
+<p align="center">
+  <a href="mailto:sarvesh.amrute19@vit.edu.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail"></a>
+  <a href="https://linkedin.com/in/sarvesh-amrute-10"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="sarvesh-amrute"/></a>
+  <a href="https://www.instagram.com/sarvesh___amrute/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/instagram.svg" alt="sarvesh___amrute"/></a>
+  <a href="https://twitter.com/sarveshamrute10"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/twitter.svg" alt="sarveshamrute10"/></a>
+  <a href="https://discord.com/channels/@me"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/discord.svg" alt="sarvesh___amrute#8160"/></a>
+  <a href="https://t.me/sarvesh_amrute"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/telegram.svg" alt="SarveshAmrute"/></a>
+</p>
