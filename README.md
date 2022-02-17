@@ -7,7 +7,7 @@
 **sarveshamrute10/sarveshamrute10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on movie recommendation system, problem solving
+- 🔭 I’m currently working on movie recommendation system project and improving the problem solving skills
 - 🌱 I’m currently learning django
 - 👯 I’m looking to collaborate on data science projects
 - 📫 How to reach me: 
